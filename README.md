@@ -1,4 +1,4 @@
 # Minesweeper Solver
-# Nick Collins and Nicholas Lantz
+## Nick Collins and Nicholas Lantz
 
 TODO
